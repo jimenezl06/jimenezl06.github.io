@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #262424;
-    color: #2b2525;
+    background-color: #4169E1;  
+    color: white;  
 }
 
 header {
-    background: #333;
-    color: white;
+    background: #3b59a0;  
+    color: white;  
     text-align: center;
     padding: 1em 0;
 }
@@ -17,7 +17,8 @@ section {
     padding: 20px;
     margin: 20px auto;
     width: 80%;
-    background: white;
+    background: #5a7ac7; 
+    color: white; 
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -28,7 +29,7 @@ section {
 }
 
 .repo-list li {
-    background: #ddd;
+    background: #8b9fd7;  
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
@@ -37,6 +38,6 @@ section {
 footer {
     text-align: center;
     padding: 10px;
-    background: #333;
-    color: white;
+    background: #3b59a0; 
+    color: white;  
 }
